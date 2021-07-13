@@ -1,0 +1,5 @@
+﻿  뉴스 클러스터링.cpp
+C:\Users\chan\source\repos\프로그래머스\프로그래머스 Level2\뉴스 클러스터링.cpp(8,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\chan\source\repos\프로그래머스\프로그래머스 Level2\뉴스 클러스터링.cpp(10,29): warning C4804: '<=': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\Users\chan\source\repos\프로그래머스\프로그래머스 Level2\뉴스 클러스터링.cpp(28,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  프로그래머스 Level2.vcxproj -> C:\Users\chan\source\repos\프로그래머스\Debug\프로그래머스 Level2.exe
