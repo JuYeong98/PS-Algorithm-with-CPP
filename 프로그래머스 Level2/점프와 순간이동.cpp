@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+
+int solution(int n)
+{
+	
+	if (n == 1)
+		return 1;
+	else
+		return n + solution(n - 1);
+}
+int main(void)
+{
+	cout << solution(100);
+}
