@@ -3,7 +3,7 @@
 using namespace std;
 int main(void)
 {
-    int money = 1260; 
+    int money = 1860; 
     vector<int> moneys;
     moneys.push_back(500);
     moneys.push_back(100);
