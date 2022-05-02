@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main(void){//곱하기 혹은 더하기
+int main(void){//곱하기 혹은 더하기 Greedy
     string N;
     cin>>N;
     int result =N[0]-'0';
