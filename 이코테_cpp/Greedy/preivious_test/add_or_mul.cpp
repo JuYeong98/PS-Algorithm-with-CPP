@@ -13,5 +13,5 @@ int main(void){
             result +=(N[i+1]-'0');
         }
     }
-    cout<<result;
+    cout<<result<<endl;
 }
